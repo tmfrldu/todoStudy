@@ -3,8 +3,7 @@
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
 <p align="center">
-  <img src="<img width="1280" alt="스크린샷 2023-07-27 오후 9 04 23" src="https://github.com/tmfrldu/todoStudy/assets/121007155/eaa24742-abe5-4206-a5d8-6c9650c44eed">
-">
+  <img src="https://github.com/tmfrldu/todoStudy/assets/121007155/eaa24742-abe5-4206-a5d8-6c9650c44eed">
 </p>
 
 ## Recommended IDE Setup
